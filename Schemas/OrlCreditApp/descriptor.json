@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "31f367a7-1799-41b7-9002-e0270206d2d8",
+    "Name": "OrlCreditApp",
+    "ModifiedOnUtc": "\/Date(1733778875000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Заявка на кредит"
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "870f1d61-3146-4fba-b511-4ed879025508",
+    "Name": "OrlCreditAppFile",
+    "ModifiedOnUtc": "\/Date(1733777643000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Заявка на кредит",
+    "DependsOn": []
+  }
+}

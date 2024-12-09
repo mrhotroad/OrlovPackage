@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6fa96e34-5200-4ca6-bdc4-a434d19795bc",
+    "Name": "OrlCreditAppInTag",
+    "ModifiedOnUtc": "\/Date(1733777806000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Страница редактирования: \"Заявка на кредит\"",
+    "DependsOn": []
+  }
+}

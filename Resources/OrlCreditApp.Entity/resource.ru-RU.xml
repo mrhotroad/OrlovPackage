@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Заявка на кредит" />
+			<Item Name="Columns.OrlAmountCredit.Caption" Value="Сумма кредита" />
+			<Item Name="Columns.OrlApp.Caption" Value="Заявитель" />
+			<Item Name="Columns.OrlCatProd.Caption" Value="Категория продукта" />
+			<Item Name="Columns.OrlDeadlineApp.Caption" Value="Срок действия заявки" />
+			<Item Name="Columns.OrlName.Caption" Value="Название" />
+			<Item Name="Columns.OrlNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.OrlNumber.Caption" Value="Номер" />
+			<Item Name="Columns.OrlOwner.Caption" Value="Ответственный" />
+			<Item Name="Columns.OrlStatus.Caption" Value="Статус" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

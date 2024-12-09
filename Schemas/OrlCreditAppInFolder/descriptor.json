@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "87eecf48-89fe-4591-9c2f-2fed0c2ea153",
+    "Name": "OrlCreditAppInFolder",
+    "ModifiedOnUtc": "\/Date(1733777650000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Заявка на кредит в группе",
+    "DependsOn": []
+  }
+}

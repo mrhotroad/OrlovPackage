@@ -1,0 +1,21 @@
+﻿{
+  "Descriptor": {
+    "UId": "4a0d5b52-bd12-96ba-7b94-f9aa30d39099",
+    "Name": "OrlovPackage",
+    "BPMSoftVersion": "1.5.0",
+    "ModifiedOnUtc": "\/Date(1733777345000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      },
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "1.0.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
