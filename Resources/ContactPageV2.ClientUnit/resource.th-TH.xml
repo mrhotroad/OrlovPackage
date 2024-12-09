@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.BlankSlateDescription.Value" Value="Your browser is not supported. Please use Chrome, Safari or Firefox in order to work with contact event's history" />
+			<Item Name="LocalizableStrings.ButtonLoadMoreCaption.Value" Value="Load more" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="เลื่อนไปจนถึง" />
+			<Item Name="LocalizableStrings.ColumnNameCostCaption.Value" Value="Cost" />
+			<Item Name="LocalizableStrings.ColumnNameDateTimeCaption.Value" Value="Date Time" />
+			<Item Name="LocalizableStrings.ColumnNameEventTypeCaption.Value" Value="Event Type" />
+			<Item Name="LocalizableStrings.ColumnNameNameCaption.Value" Value="ชื่อ" />
+			<Item Name="LocalizableStrings.ColumnNameValueCaption.Value" Value="ค่า" />
+			<Item Name="LocalizableStrings.CommunicationChannelsTabCaption.Value" Value="ช่องทางการติดต่อสื่อสาร" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="ข้อความถึงผู้ใช้ 1" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="ร้อยละของความสมบูรณ์ของโปร์ไฟล์ คลิกที่ตัวชี้เพื่อดูว่ามีข้อมูลไหนบ้างที่คุณต้องทำโปรไฟล์ให้สมบูรณ์." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="โปรไฟล์เสร็จสมบูรณ์" />
+			<Item Name="LocalizableStrings.ConfirmedCaption.Value" Value="ยืนยันแล้ว" />
+			<Item Name="LocalizableStrings.ContactPageServiceTab.Value" Value="การบำรุงรักษา" />
+			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Engagement" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="พบข้อมูลใหม่" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="ฟีด" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="อัพเดตด้วยข้อมูลโซเชียลเนตเวิต์ก" />
+			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Submitted forms" />
+			<Item Name="LocalizableStrings.LabelLoadingCaption.Value" Value="Data loading is in progress. This may take a few seconds." />
+			<Item Name="LocalizableStrings.LabelNoDataCaption.Value" Value="There are no website events for this record." />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="มีองค์ประกอบคิวมากกว่าหนึ่งที่เชื่อมต่อกับกระบวนการ  ไอดีของกระบวนการ: {0}" />
+			<Item Name="LocalizableStrings.OrlSchemaf7b3161eDetaila634d07eDetailCaptionOnPage.Value" Value="Object" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="จัดคิวใหม่" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="ไม่สามารถจัดคิวรายการใหม่  ข้อความผิดพลาด: {0}" />
+			<Item Name="LocalizableStrings.PropertyBrowserCaption.Value" Value="Browser" />
+			<Item Name="LocalizableStrings.PropertyColorDepthCaption.Value" Value="Color Depth" />
+			<Item Name="LocalizableStrings.PropertyDisplayCaption.Value" Value="แสดง" />
+			<Item Name="LocalizableStrings.PropertyLanguageCaption.Value" Value="ภาษา" />
+			<Item Name="LocalizableStrings.PropertyLanguagesCaption.Value" Value="ภาษา" />
+			<Item Name="LocalizableStrings.PropertyPageUrlCaption.Value" Value="Page url" />
+			<Item Name="LocalizableStrings.PropertyPixelDepthCaption.Value" Value="Pixel Depth" />
+			<Item Name="LocalizableStrings.PropertyPlatformCaption.Value" Value="Platform" />
+			<Item Name="LocalizableStrings.PropertyRefererCaption.Value" Value="Referer" />
+			<Item Name="LocalizableStrings.PropertyScreenAvailCaption.Value" Value="Screen Avail" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="หน้าไม่ได้เชื่อมต่อกับองค์ประกอบคิวในเดสท้อปของตัวแทน การทำงานถูกยกเลิก." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="ไม่สามารถจัดคิวรายการใหม่" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="จัดคิวใหม่ได้สำเร็จ" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.ShowTrackingDataCaption.Value" Value="Show tracking data" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="ติดตามฟีด" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="ตอนนี้คุณกำลังติดตามฟีด: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="ไทมไลน์" />
+			<Item Name="LocalizableStrings.TouchDetailDetailCaptionOnPage.Value" Value="Web sessions" />
+			<Item Name="LocalizableStrings.TrackingEventsTabCaption.Value" Value="อีเว้นท์บนเวปไซต์" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="ยกเลิกการติดตามฟีด" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="คุณได้หยุดติดตามฟีด: {0}" />
+		</Items>
+	</Group>
+</Resources>

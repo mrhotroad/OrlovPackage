@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "6f9dceb9-da45-4e12-a749-a4c19787d9a4",
     "Name": "OrlCreditApp1Page",
-    "ModifiedOnUtc": "\/Date(1733777806000)\/",
+    "ModifiedOnUtc": "\/Date(1733780123000)\/",
     "Parent": {
       "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
       "Name": "BaseModulePageV2"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Страница редактирования: \"Заявка на кредит\"",
-    "DependsOn": []
+    "Caption": "BaseModulePageV2"
   }
 }

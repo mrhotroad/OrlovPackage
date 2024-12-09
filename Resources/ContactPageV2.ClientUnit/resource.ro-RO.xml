@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.BlankSlateDescription.Value" Value="Your browser is not supported. Please use Chrome, Safari or Firefox in order to work with contact event's history" />
+			<Item Name="LocalizableStrings.ButtonLoadMoreCaption.Value" Value="Load more" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Amana pana la" />
+			<Item Name="LocalizableStrings.ColumnNameCostCaption.Value" Value="Cost" />
+			<Item Name="LocalizableStrings.ColumnNameDateTimeCaption.Value" Value="Date Time" />
+			<Item Name="LocalizableStrings.ColumnNameEventTypeCaption.Value" Value="Event Type" />
+			<Item Name="LocalizableStrings.ColumnNameNameCaption.Value" Value="Nume" />
+			<Item Name="LocalizableStrings.ColumnNameValueCaption.Value" Value="Valoare" />
+			<Item Name="LocalizableStrings.CommunicationChannelsTabCaption.Value" Value="Canale de comunicare" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Procent de finalizare a profilului. Accesati indicatorul pentru a vizualiza ce date mai sunt necesare pentru a finaliza profilul." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profil finalizat" />
+			<Item Name="LocalizableStrings.ConfirmedCaption.Value" Value="Confirmat" />
+			<Item Name="LocalizableStrings.ContactPageServiceTab.Value" Value="Mentinere" />
+			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Engagement" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="New data found" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Alimentare" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Actualizati cu datele retelelor sociale" />
+			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Submitted forms" />
+			<Item Name="LocalizableStrings.LabelLoadingCaption.Value" Value="Data loading is in progress. This may take a few seconds." />
+			<Item Name="LocalizableStrings.LabelNoDataCaption.Value" Value="There are no website events for this record." />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Mai mult decat un element in coada conexat procesului. Id Proces: {0}" />
+			<Item Name="LocalizableStrings.OrlSchemaf7b3161eDetaila634d07eDetailCaptionOnPage.Value" Value="Object" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Refa coada" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Nu a fost posibila repunerea in coada a item-ului. Mesaj de eroare: {0}" />
+			<Item Name="LocalizableStrings.PropertyBrowserCaption.Value" Value="Browser-ul" />
+			<Item Name="LocalizableStrings.PropertyColorDepthCaption.Value" Value="Color Depth" />
+			<Item Name="LocalizableStrings.PropertyDisplayCaption.Value" Value="Afisati" />
+			<Item Name="LocalizableStrings.PropertyLanguageCaption.Value" Value="Limba" />
+			<Item Name="LocalizableStrings.PropertyLanguagesCaption.Value" Value="Limbi" />
+			<Item Name="LocalizableStrings.PropertyPageUrlCaption.Value" Value="Page url" />
+			<Item Name="LocalizableStrings.PropertyPixelDepthCaption.Value" Value="Pixel Depth" />
+			<Item Name="LocalizableStrings.PropertyPlatformCaption.Value" Value="Platform" />
+			<Item Name="LocalizableStrings.PropertyRefererCaption.Value" Value="Referer" />
+			<Item Name="LocalizableStrings.PropertyScreenAvailCaption.Value" Value="Screen Avail" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Pagina nu este conectata la elementul in coada pe ecranul agentului. Actiune anulata." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Nu a fost posibila re-punerea in coada a item-ului" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Re-punere in coada cu succes" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.ShowTrackingDataCaption.Value" Value="Show tracking data" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Urmati alimentarea" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="In acest moment urmati alimentarea: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.TouchDetailDetailCaptionOnPage.Value" Value="Web sessions" />
+			<Item Name="LocalizableStrings.TrackingEventsTabCaption.Value" Value="Evenimente pagina de internet" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Renuntati la urmarirea alimentarii" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ati renuntat la urmarirea alimentarii: {0}" />
+		</Items>
+	</Group>
+</Resources>

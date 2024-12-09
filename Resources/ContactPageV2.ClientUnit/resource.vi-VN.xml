@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.BlankSlateDescription.Value" Value="Trình duyệt của bạn không được hỗ trợ. Vui lòng sử dụng Chrome, Safari hoặc Firefox để làm việc với lịch sử sự kiện liên hệ" />
+			<Item Name="LocalizableStrings.ButtonLoadMoreCaption.Value" Value="Tải thêm" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Hoãn lại cho đến khi" />
+			<Item Name="LocalizableStrings.ColumnNameCostCaption.Value" Value="Chi phí" />
+			<Item Name="LocalizableStrings.ColumnNameDateTimeCaption.Value" Value="Ngày Giờ" />
+			<Item Name="LocalizableStrings.ColumnNameEventTypeCaption.Value" Value="Loại sự kiện" />
+			<Item Name="LocalizableStrings.ColumnNameNameCaption.Value" Value="Tên" />
+			<Item Name="LocalizableStrings.ColumnNameValueCaption.Value" Value="Giá trị" />
+			<Item Name="LocalizableStrings.CommunicationChannelsTabCaption.Value" Value="Các kênh liên lạc" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="Tin nhắn đến người dùng 1" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Phần trăm mức hoàn thành hồ sơ. Click vào dấu chỉ dẫn để xem dữ liệu nào mà bạn cần để hoàn thành hồ sơ." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Hoàn thành hồ sơ" />
+			<Item Name="LocalizableStrings.ConfirmedCaption.Value" Value="Xác nhận" />
+			<Item Name="LocalizableStrings.ContactPageServiceTab.Value" Value="Bảo trì" />
+			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Engagement" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="Đã tìm thấy dữ liệu mới" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Tin tức" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Cập nhật với dữ liệu mạng xã hội" />
+			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Submitted forms" />
+			<Item Name="LocalizableStrings.LabelLoadingCaption.Value" Value="Đang tải dữ liệu. Điều này có thể mất một vài giây." />
+			<Item Name="LocalizableStrings.LabelNoDataCaption.Value" Value="Không có sự kiện trang web cho bản ghi này." />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Có nhiều hơn một phần tử dãy chờ được kết nối với quá trình này. Id quá trình: {0}" />
+			<Item Name="LocalizableStrings.OrlSchemaf7b3161eDetaila634d07eDetailCaptionOnPage.Value" Value="Object" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Xếp lại dãy chờ" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Không thể xếp lại dãy chờ cho mục này. Tin nhắn bị lỗi: {0}" />
+			<Item Name="LocalizableStrings.PropertyBrowserCaption.Value" Value="Trình duyệt" />
+			<Item Name="LocalizableStrings.PropertyColorDepthCaption.Value" Value="Độ đậm của màu" />
+			<Item Name="LocalizableStrings.PropertyDisplayCaption.Value" Value="Hiển thị" />
+			<Item Name="LocalizableStrings.PropertyLanguageCaption.Value" Value="Ngôn ngữ" />
+			<Item Name="LocalizableStrings.PropertyLanguagesCaption.Value" Value="Ngôn ngữ" />
+			<Item Name="LocalizableStrings.PropertyPageUrlCaption.Value" Value="url trang" />
+			<Item Name="LocalizableStrings.PropertyPixelDepthCaption.Value" Value="Độ sâu pixel" />
+			<Item Name="LocalizableStrings.PropertyPlatformCaption.Value" Value="Nền tảng" />
+			<Item Name="LocalizableStrings.PropertyRefererCaption.Value" Value="Người giới thiệu" />
+			<Item Name="LocalizableStrings.PropertyScreenAvailCaption.Value" Value="Thời lượng màn hình" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Trang chưa được kết nối với phần tử dãy chờ máy trung gian. Hành động bị hủy." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Không thể xếp lại dãy chờ cho mục này" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Xếp lại dãy chờ thành công" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Đã được kết nối đến" />
+			<Item Name="LocalizableStrings.ShowTrackingDataCaption.Value" Value="Hiển thị dữ liệu kiểm tra" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Theo dõi tin tức" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Bạn hiện đang theo dõi tin tức: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Mốc thời gian" />
+			<Item Name="LocalizableStrings.TouchDetailDetailCaptionOnPage.Value" Value="Web sessions" />
+			<Item Name="LocalizableStrings.TrackingEventsTabCaption.Value" Value="Sự kiện website" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Bỏ theo dõi tin tức" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Bạn vừa dừng theo dõi tin tức: {0}" />
+		</Items>
+	</Group>
+</Resources>

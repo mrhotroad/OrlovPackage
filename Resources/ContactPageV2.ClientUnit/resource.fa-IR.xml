@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.BlankSlateDescription.Value" Value="Your browser is not supported. Please use Chrome, Safari or Firefox in order to work with contact event's history" />
+			<Item Name="LocalizableStrings.ButtonLoadMoreCaption.Value" Value="Load more" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="به تعویق انداختن تا" />
+			<Item Name="LocalizableStrings.ColumnNameCostCaption.Value" Value="Cost" />
+			<Item Name="LocalizableStrings.ColumnNameDateTimeCaption.Value" Value="Date Time" />
+			<Item Name="LocalizableStrings.ColumnNameEventTypeCaption.Value" Value="Event Type" />
+			<Item Name="LocalizableStrings.ColumnNameNameCaption.Value" Value="نام" />
+			<Item Name="LocalizableStrings.ColumnNameValueCaption.Value" Value="مقدار" />
+			<Item Name="LocalizableStrings.CommunicationChannelsTabCaption.Value" Value="کانالهای ارتباطی" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="پیام به کاربر 1" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="میزان درصد تکمیل پروفایل. روی نوار کلیک کنید تا نمایش کنید کدام اطلاعات را برای تکمیل اطلاعات نیاز دارید." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="پروفایل تکمیل است" />
+			<Item Name="LocalizableStrings.ConfirmedCaption.Value" Value="تایید شده" />
+			<Item Name="LocalizableStrings.ContactPageServiceTab.Value" Value="نگهداری" />
+			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Engagement" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="اطلاعات جدید یافت شد" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="فید" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="بروز رسانی با اطلاعات شبکه های اجتماعی" />
+			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Submitted forms" />
+			<Item Name="LocalizableStrings.LabelLoadingCaption.Value" Value="Data loading is in progress. This may take a few seconds." />
+			<Item Name="LocalizableStrings.LabelNoDataCaption.Value" Value="There are no website events for this record." />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="بیش از یک عنصر صف به فرایند متصل است. شناسه فرایند: {0}" />
+			<Item Name="LocalizableStrings.OrlSchemaf7b3161eDetaila634d07eDetailCaptionOnPage.Value" Value="Object" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="تشکیل صف دوباره" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="امکان صف بندی مجدد آیتم وجود ندارد. پیام خطا: {0}" />
+			<Item Name="LocalizableStrings.PropertyBrowserCaption.Value" Value="مرورگر" />
+			<Item Name="LocalizableStrings.PropertyColorDepthCaption.Value" Value="Color Depth" />
+			<Item Name="LocalizableStrings.PropertyDisplayCaption.Value" Value="نمایش" />
+			<Item Name="LocalizableStrings.PropertyLanguageCaption.Value" Value="زبان" />
+			<Item Name="LocalizableStrings.PropertyLanguagesCaption.Value" Value="زبانها" />
+			<Item Name="LocalizableStrings.PropertyPageUrlCaption.Value" Value="Page url" />
+			<Item Name="LocalizableStrings.PropertyPixelDepthCaption.Value" Value="Pixel Depth" />
+			<Item Name="LocalizableStrings.PropertyPlatformCaption.Value" Value="Platform" />
+			<Item Name="LocalizableStrings.PropertyRefererCaption.Value" Value="Referer" />
+			<Item Name="LocalizableStrings.PropertyScreenAvailCaption.Value" Value="Screen Avail" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="صفحه به عنصر صف عامل دسکتاپ متصل نیست. اقدام لغو شد." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="امکان صف بندی مجدد آیتم وجود ندارد" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="با موفقیت دوباره در صف قرار گرفت" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.ShowTrackingDataCaption.Value" Value="Show tracking data" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="دنبال کردن فید" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="پیگیری این فید را آغاز نمودید: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="تایم لاین" />
+			<Item Name="LocalizableStrings.TouchDetailDetailCaptionOnPage.Value" Value="Web sessions" />
+			<Item Name="LocalizableStrings.TrackingEventsTabCaption.Value" Value="رویداد های وبسایت" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="لغو دنبال کردن فید" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="پیگیری این فید را متوقف نمودید: {0}" />
+		</Items>
+	</Group>
+</Resources>

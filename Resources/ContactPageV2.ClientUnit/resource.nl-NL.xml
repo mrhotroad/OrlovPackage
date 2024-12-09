@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.BlankSlateDescription.Value" Value="Uw Browser wordt niet Ondersteund. Gebruik Chrome, Safari of Firefox om te werken met de geschiedenis van de contactgebeurtenis" />
+			<Item Name="LocalizableStrings.ButtonLoadMoreCaption.Value" Value="Load more" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Uitstellen tot" />
+			<Item Name="LocalizableStrings.ColumnNameCostCaption.Value" Value="Kosten" />
+			<Item Name="LocalizableStrings.ColumnNameDateTimeCaption.Value" Value="Datum Tijd" />
+			<Item Name="LocalizableStrings.ColumnNameEventTypeCaption.Value" Value="Evenement Type" />
+			<Item Name="LocalizableStrings.ColumnNameNameCaption.Value" Value="Naam" />
+			<Item Name="LocalizableStrings.ColumnNameValueCaption.Value" Value="Waarde" />
+			<Item Name="LocalizableStrings.CommunicationChannelsTabCaption.Value" Value="CommunicatieKANALEN" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="Bericht aan gebruiker 1" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Percentage gereed van profiel. Klik op de indicator om te bekijken welke gegevens u nodig hebt om het profiel te voltooien." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profiel compleet" />
+			<Item Name="LocalizableStrings.ConfirmedCaption.Value" Value="Bevestigd" />
+			<Item Name="LocalizableStrings.ContactPageServiceTab.Value" Value="Onderhoud" />
+			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Engagement" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="New data found" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Bijwerken met sociale netwerkgegevens" />
+			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Submitted forms" />
+			<Item Name="LocalizableStrings.LabelLoadingCaption.Value" Value="Er worden gegevens geladen. Dit kan enkele seconden duren." />
+			<Item Name="LocalizableStrings.LabelNoDataCaption.Value" Value="There are no website events for this record." />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Meerdere wachtrijen verbonden met het proces. Proces Id: {0}" />
+			<Item Name="LocalizableStrings.OrlSchemaf7b3161eDetaila634d07eDetailCaptionOnPage.Value" Value="Object" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Plaats opnieuw in wachtrij" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Niet in staat om opnieuw wachtrij te plaatsen. Error message: {0}" />
+			<Item Name="LocalizableStrings.PropertyBrowserCaption.Value" Value="Browser" />
+			<Item Name="LocalizableStrings.PropertyColorDepthCaption.Value" Value="Kleurdiepte" />
+			<Item Name="LocalizableStrings.PropertyDisplayCaption.Value" Value="Weergeven" />
+			<Item Name="LocalizableStrings.PropertyLanguageCaption.Value" Value="Taal" />
+			<Item Name="LocalizableStrings.PropertyLanguagesCaption.Value" Value="Talen" />
+			<Item Name="LocalizableStrings.PropertyPageUrlCaption.Value" Value="Pagina url" />
+			<Item Name="LocalizableStrings.PropertyPixelDepthCaption.Value" Value="Pixel Depth" />
+			<Item Name="LocalizableStrings.PropertyPlatformCaption.Value" Value="Platform" />
+			<Item Name="LocalizableStrings.PropertyRefererCaption.Value" Value="Verwijzer" />
+			<Item Name="LocalizableStrings.PropertyScreenAvailCaption.Value" Value="Scherm baten" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Pagina is niet aangesloten op de agent desktop wachtrij element. Actie geannuleerd." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Niet in staat om opnieuw wachtrij te plaatsen" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Met succes opnieuw in de wachtrij" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Verbonden met" />
+			<Item Name="LocalizableStrings.ShowTrackingDataCaption.Value" Value="Show tracking data" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Volg de feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="U volgt nu feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Tijdlijn" />
+			<Item Name="LocalizableStrings.TouchDetailDetailCaptionOnPage.Value" Value="Web sessions" />
+			<Item Name="LocalizableStrings.TrackingEventsTabCaption.Value" Value="Website events" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Feed niet meer volgen" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="U bent gestopt met het volgen van de feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

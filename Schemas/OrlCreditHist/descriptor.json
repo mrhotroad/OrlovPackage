@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "73eaa115-464a-457e-a5b8-bb035042a9b1",
+    "Name": "OrlCreditHist",
+    "ModifiedOnUtc": "\/Date(1733779687000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Кредитная история заявителя"
+  }
+}

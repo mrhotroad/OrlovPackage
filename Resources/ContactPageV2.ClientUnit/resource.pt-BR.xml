@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.BlankSlateDescription.Value" Value="Your browser is not supported. Please use Chrome, Safari or Firefox in order to work with contact event's history" />
+			<Item Name="LocalizableStrings.ButtonLoadMoreCaption.Value" Value="Load more" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Adiar até" />
+			<Item Name="LocalizableStrings.ColumnNameCostCaption.Value" Value="Cost" />
+			<Item Name="LocalizableStrings.ColumnNameDateTimeCaption.Value" Value="Date Time" />
+			<Item Name="LocalizableStrings.ColumnNameEventTypeCaption.Value" Value="Event Type" />
+			<Item Name="LocalizableStrings.ColumnNameNameCaption.Value" Value="Nome" />
+			<Item Name="LocalizableStrings.ColumnNameValueCaption.Value" Value="Valor" />
+			<Item Name="LocalizableStrings.CommunicationChannelsTabCaption.Value" Value="canais de comunicação" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="Mensagem ao usuário 1" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Porcentagem de conclusão do perfil. Clique no indicador para ver quais dados são necessários para concluir o perfil." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Perfil concluído" />
+			<Item Name="LocalizableStrings.ConfirmedCaption.Value" Value="Confirmado" />
+			<Item Name="LocalizableStrings.ContactPageServiceTab.Value" Value="Manutenção" />
+			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Engagement" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="New data found" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Atualizar com os dados de redes sociais" />
+			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Submitted forms" />
+			<Item Name="LocalizableStrings.LabelLoadingCaption.Value" Value="Data loading is in progress. This may take a few seconds." />
+			<Item Name="LocalizableStrings.LabelNoDataCaption.Value" Value="There are no website events for this record." />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Mais de uma fila de elementos ligada ao processo. ID do processo: {0}" />
+			<Item Name="LocalizableStrings.OrlSchemaf7b3161eDetaila634d07eDetailCaptionOnPage.Value" Value="Object" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Re-enfileirar" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Não é possível recolocar item na fila. Mensagem de erro: {0}" />
+			<Item Name="LocalizableStrings.PropertyBrowserCaption.Value" Value="Navegador" />
+			<Item Name="LocalizableStrings.PropertyColorDepthCaption.Value" Value="Color Depth" />
+			<Item Name="LocalizableStrings.PropertyDisplayCaption.Value" Value="Exibição" />
+			<Item Name="LocalizableStrings.PropertyLanguageCaption.Value" Value="Linguagem" />
+			<Item Name="LocalizableStrings.PropertyLanguagesCaption.Value" Value="Idiomas" />
+			<Item Name="LocalizableStrings.PropertyPageUrlCaption.Value" Value="Page url" />
+			<Item Name="LocalizableStrings.PropertyPixelDepthCaption.Value" Value="Pixel Depth" />
+			<Item Name="LocalizableStrings.PropertyPlatformCaption.Value" Value="Platform" />
+			<Item Name="LocalizableStrings.PropertyRefererCaption.Value" Value="Referer" />
+			<Item Name="LocalizableStrings.PropertyScreenAvailCaption.Value" Value="Screen Avail" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="A página não está ligada ao elemento fila de desktop de agente. Ação cancelada." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Nao é possível recolocar item na fila" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Item recolocado na fila com sucesso" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.ShowTrackingDataCaption.Value" Value="Show tracking data" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Seguir o feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Você agora está seguindo o feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.TouchDetailDetailCaptionOnPage.Value" Value="Web sessions" />
+			<Item Name="LocalizableStrings.TrackingEventsTabCaption.Value" Value="Eventos de website" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Parar de seguir o feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Você parou de seguir o feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

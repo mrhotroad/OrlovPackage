@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "f1f0de45-c461-4ecf-9bbd-1331c0408af0",
     "Name": "OrlCreditApp77c00138Section",
-    "ModifiedOnUtc": "\/Date(1733777632000)\/",
+    "ModifiedOnUtc": "\/Date(1733780127000)\/",
     "Parent": {
       "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
       "Name": "BaseSectionV2"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Схема раздела: \"Заявка на кредит\"",
-    "DependsOn": []
+    "Caption": "Схема раздела: \"Заявка на кредит\""
   }
 }

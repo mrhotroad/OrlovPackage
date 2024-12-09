@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.BlankSlateDescription.Value" Value="Your browser is not supported. Please use Chrome, Safari or Firefox in order to work with contact event's history" />
+			<Item Name="LocalizableStrings.ButtonLoadMoreCaption.Value" Value="Load more" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Odložit do" />
+			<Item Name="LocalizableStrings.ColumnNameCostCaption.Value" Value="Cost" />
+			<Item Name="LocalizableStrings.ColumnNameDateTimeCaption.Value" Value="Date Time" />
+			<Item Name="LocalizableStrings.ColumnNameEventTypeCaption.Value" Value="Event Type" />
+			<Item Name="LocalizableStrings.ColumnNameNameCaption.Value" Value="Název" />
+			<Item Name="LocalizableStrings.ColumnNameValueCaption.Value" Value="Hodnota" />
+			<Item Name="LocalizableStrings.CommunicationChannelsTabCaption.Value" Value="Způsoby komunikace" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Procento vyplnění profilu. Klikněte na ukazatel abyste se dozvěděli, jaká data Vám zatím chybí." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profil vyplněn" />
+			<Item Name="LocalizableStrings.ConfirmedCaption.Value" Value="Potvrzen" />
+			<Item Name="LocalizableStrings.ContactPageServiceTab.Value" Value="Servis" />
+			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Engagement" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="New data found" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Sociální síť" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Načíst ze sociálních sítí" />
+			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Submitted forms" />
+			<Item Name="LocalizableStrings.LabelLoadingCaption.Value" Value="Data loading is in progress. This may take a few seconds." />
+			<Item Name="LocalizableStrings.LabelNoDataCaption.Value" Value="There are no website events for this record." />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Více prvku ve frontě bylo propojeno na proces. Id procesu: {0}" />
+			<Item Name="LocalizableStrings.OrlSchemaf7b3161eDetaila634d07eDetailCaptionOnPage.Value" Value="Object" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Znovu zařadit do fronty" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Nelze znovu zařadit do fronty. Chybová zpráva: {0}" />
+			<Item Name="LocalizableStrings.PropertyBrowserCaption.Value" Value="Browser" />
+			<Item Name="LocalizableStrings.PropertyColorDepthCaption.Value" Value="Color Depth" />
+			<Item Name="LocalizableStrings.PropertyDisplayCaption.Value" Value="Zobrazit" />
+			<Item Name="LocalizableStrings.PropertyLanguageCaption.Value" Value="Jazyk" />
+			<Item Name="LocalizableStrings.PropertyLanguagesCaption.Value" Value="Languages" />
+			<Item Name="LocalizableStrings.PropertyPageUrlCaption.Value" Value="Page url" />
+			<Item Name="LocalizableStrings.PropertyPixelDepthCaption.Value" Value="Pixel Depth" />
+			<Item Name="LocalizableStrings.PropertyPlatformCaption.Value" Value="Platform" />
+			<Item Name="LocalizableStrings.PropertyRefererCaption.Value" Value="Referer" />
+			<Item Name="LocalizableStrings.PropertyScreenAvailCaption.Value" Value="Screen Avail" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Stránka není napojená na prvek ve frontě agentského desktopu. Akce byla zrušena." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Nelze znovu zařadit do fronty" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Znovu zařazen do fronty úspěšně" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.ShowTrackingDataCaption.Value" Value="Show tracking data" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Sledovat kanál" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Nyní sledujete kanál: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.TouchDetailDetailCaptionOnPage.Value" Value="Web sessions" />
+			<Item Name="LocalizableStrings.TrackingEventsTabCaption.Value" Value="Website events" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Přestat sledovat" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Přestali jste sledovat tento kanál: {0}" />
+		</Items>
+	</Group>
+</Resources>
