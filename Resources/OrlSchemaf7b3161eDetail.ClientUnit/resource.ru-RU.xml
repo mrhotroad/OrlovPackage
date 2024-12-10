@@ -2,7 +2,7 @@
 <Resources Culture="ru-RU">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Кредитная история заявителя" />
+			<Item Name="Caption" Value="Схема детали: &quot;Кредитная история заявителя&quot;" />
 			<Item Name="LocalizableStrings.Caption.Value" Value="Кредитная история заявителя" />
 		</Items>
 	</Group>

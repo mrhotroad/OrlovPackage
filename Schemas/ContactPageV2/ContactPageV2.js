@@ -129,6 +129,23 @@ define("ContactPageV2", [], function() {
 			},
 			{
 				"operation": "insert",
+				"name": "BirthDate6e3f0354-ca35-4578-9c05-961e52777a9c",
+				"values": {
+					"layout": {
+						"colSpan": 24,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 9,
+						"layoutName": "ProfileContainer"
+					},
+					"bindTo": "BirthDate"
+				},
+				"parentName": "ProfileContainer",
+				"propertyName": "items",
+				"index": 9
+			},
+			{
+				"operation": "insert",
 				"name": "Tab302deac5TabLabel",
 				"values": {
 					"caption": {
@@ -164,13 +181,6 @@ define("ContactPageV2", [], function() {
 				"name": "ContactPageServiceTab",
 				"values": {
 					"order": 3
-				}
-			},
-			{
-				"operation": "merge",
-				"name": "TimelineTab",
-				"values": {
-					"order": 4
 				}
 			},
 			{
@@ -258,6 +268,20 @@ define("ContactPageV2", [], function() {
 			},
 			{
 				"operation": "merge",
+				"name": "ESNTab",
+				"values": {
+					"order": 11
+				}
+			},
+			{
+				"operation": "merge",
+				"name": "TimelineTab",
+				"values": {
+					"order": 4
+				}
+			},
+			{
+				"operation": "merge",
 				"name": "EngagementTab",
 				"values": {
 					"order": 5
@@ -280,13 +304,6 @@ define("ContactPageV2", [], function() {
 						"column": 3,
 						"row": 7
 					}
-				}
-			},
-			{
-				"operation": "merge",
-				"name": "ESNTab",
-				"values": {
-					"order": 11
 				}
 			}
 		]/**SCHEMA_DIFF*/

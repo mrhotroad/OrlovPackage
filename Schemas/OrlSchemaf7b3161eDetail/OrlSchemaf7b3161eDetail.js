@@ -3,6 +3,8 @@ define("OrlSchemaf7b3161eDetail", [], function() {
 		entitySchemaName: "OrlCreditHist",
 		details: /**SCHEMA_DETAILS*/{}/**SCHEMA_DETAILS*/,
 		diff: /**SCHEMA_DIFF*/[]/**SCHEMA_DIFF*/,
-		methods: {}
+		methods: {
+			getDeleteRecordMenuItem: BPMSoft.emptyFn,
+		}
 	};
 });

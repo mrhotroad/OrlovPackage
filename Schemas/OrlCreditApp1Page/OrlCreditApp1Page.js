@@ -1,7 +1,41 @@
-define("OrlCreditApp1Page", [], function() {
+define("OrlCreditApp1Page", ["ServiceHelper"], function(ServiceHelper) {
 	return {
 		entitySchemaName: "OrlCreditApp",
-		attributes: {},
+		attributes: {
+			"OrlApp": {
+				dataValueType: BPMSoft.DataValueType.LOOKUP,
+				lookupListConfig: {
+					filter: function() { 
+						var filterGroup = BPMSoft.createFilterGroup();
+						filterGroup.add("TypeFilterManager",
+							BPMSoft.createColumnFilterWithParameter(
+								BPMSoft.ComparisonType.EQUAL,
+								"Type",
+								"00783ef6-f36b-1410-a883-16d83cab0980"
+								));
+						filterGroup.add("BirthDateFilter",
+							BPMSoft.createColumnFilterWithParameter(
+								BPMSoft.ComparisonType.LESS_OR_EQUAL,
+								"BirthDate",
+								BPMSoft.clearTime(new Date(new Date().setFullYear(new Date().getFullYear() - 18)))
+								));
+						return filterGroup;
+					}
+				}
+			},
+			"OnOrlCatProdChange": {
+				"dependencies": [
+					{
+						columns: ["OrlCatProd"],
+						methodName: "onOrlCatProdChanged"
+					}
+				]
+			},
+			"PreliminaryDecision": {
+				"dataValueType": BPMSoft.DataValueType.TEXT,
+				"type": BPMSoft.ViewModelColumnType.VIRTUAL_COLUMN,
+			},
+		},
 		modules: /**SCHEMA_MODULES*/{}/**SCHEMA_MODULES*/,
 		details: /**SCHEMA_DETAILS*/{
 			"Files": {
@@ -14,7 +48,58 @@ define("OrlCreditApp1Page", [], function() {
 			}
 		}/**SCHEMA_DETAILS*/,
 		businessRules: /**SCHEMA_BUSINESS_RULES*/{}/**SCHEMA_BUSINESS_RULES*/,
-		methods: {},
+		methods: {
+			onOrlCatProdChanged: function () {
+				if (this.getLookupValue("OrlCatProd") === "bd8a0599-f761-43b3-a4b0-8986f8b844b5") { // Ипотека
+					this.set("OrlDeadlineApp", new Date(new Date().getTime() + 90 * 24 * 60 * 60 * 1000));
+				}
+				else if (this.getLookupValue("OrlCatProd") === "67fa7453-2c66-4e4d-b24d-b7c4f9922388") { //Потребительский кредит
+					this.set("OrlDeadlineApp", new Date(new Date().getTime() + 45 * 24 * 60 * 60 * 1000));
+				}
+				else {
+					this.set("OrlDeadlineApp", undefined);
+				}
+			},
+			getActions: function () {
+				var actionMenuItems = this.callParent(arguments);
+				actionMenuItems.addItem(
+					this.getButtonMenuItem({
+						Type: "BPMSoft.MenuSeparator",
+						Caption: BPMSoft.emptyString
+					})
+				);
+				actionMenuItems.addItem(
+					this.getButtonMenuItem({
+						"Caption": "Получить предварительное решение",
+						"Tag": "runServiceClick",
+						"Visible": true,
+						"Enabled": {"bindTo": "canEntityBeOperated"}
+					})
+				);
+				return actionMenuItems;
+			},
+			runServiceClick: function () {
+				const orlAppId = this.getLookupValue("OrlApp");
+				
+				if (!orlAppId) {
+					this.showInformationDialog("Заполните поле «Заявитель», чтобы вызвать веб-сервис");
+					return;
+				}
+				
+				var serviceName = "OrlCreditAppService";
+					var methodName = "GetResult";
+					var data = {
+						orlApp: orlAppId
+					};
+				ServiceHelper.callService(serviceName, methodName, this.getServiceResult, data, this);
+			},
+			getServiceResult: function(response, success) {
+				if (success) {
+					//this.showInformationDialog(response.GetResultResult);
+					this.set("PreliminaryDecision", response.GetResultResult);
+				}
+			},
+		},
 		dataModels: /**SCHEMA_DATA_MODELS*/{}/**SCHEMA_DATA_MODELS*/,
 		diff: /**SCHEMA_DIFF*/[
 			{
@@ -152,6 +237,26 @@ define("OrlCreditApp1Page", [], function() {
 				"parentName": "Header",
 				"propertyName": "items",
 				"index": 5
+			},
+			
+			{
+				"operation": "insert",
+				"name": "PreliminaryDecision",
+				"values": {
+					"layout": {
+						"colSpan": 24,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 8,
+						"layoutName": "ProfileContainer"
+					},
+					"bindTo": "PreliminaryDecision",
+					"enabled": false,
+					"caption": "Предварительное решение",
+				},
+				"parentName": "ProfileContainer",
+				"propertyName": "items",
+				"index": 8
 			},
 			{
 				"operation": "insert",
